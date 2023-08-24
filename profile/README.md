@@ -1,4 +1,4 @@
-<h1 align="center"> Hiiiiii😍 We are devSpection.</h1>
+<h1 align="center"> Hi there 👋 We are devSpection.</h1>
 <h3 align="center">A Complete Solution to your Software Ideas💻</h3>
 
 <p align="left"> <img src="Blue and White Modern LinkedIn banner.png" alt="devspection" /> </p>
