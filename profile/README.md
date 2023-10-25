@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 We are devSpection.</h1>
 <h3 align="center">A Complete Solution to your Software Ideas💻</h3>
 
-<p align="left"> <img src="profile/DevSpection Approved Logo-02.png" alt="devspection" /> </p>
+<p align="left"> <img src="profile/DevSpection Approved Horizontal without Line.png" alt="devspection" /> </p>
 
 **🔭 About Us**
 <p> At devSpection, we believe in promoting a healthy work-life balance for our employees, which is why we offer a remote work policy. As a fully remote company, we understand that our employees have different work styles, schedules, and environments that enable them to be productive and successful.</p>
