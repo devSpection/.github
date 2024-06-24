@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 We are devSpection.</h1>
-<h3 align="center">A Complete Software Solution for your Ideas💻</h3>
+<h3 align="center">Providing complete Software Solutions for your Ideas💻</h3>
 
 <p align="left"> <img src="logo2_with_white_background.png" alt="devspection" /> </p>
 
